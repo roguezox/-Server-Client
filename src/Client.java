@@ -1,15 +1,14 @@
 // A Java program for a Client
-import java.io.*;
-import java.net.*;
-import java.security.spec.KeySpec;
-import java.util.Base64;
-
 import javax.crypto.Cipher;
 import javax.crypto.SecretKey;
 import javax.crypto.SecretKeyFactory;
 import javax.crypto.spec.IvParameterSpec;
 import javax.crypto.spec.PBEKeySpec;
 import javax.crypto.spec.SecretKeySpec;
+import java.io.*;
+import java.net.*;
+import java.security.spec.KeySpec;
+import java.util.Base64;
 
 public class Client {
     // initialize socket and input output streams
@@ -48,8 +47,8 @@ public class Client {
         while (!line.equals("Over")) {
             try {
                 line = input.readLine();
-                System.out.println("Encrypted Text: " + encrypt(line, "password"));
-                out.writeUTF(line);
+                System.out.println("Encrypted text: "+encrypt(line,"password"));
+                out.writeUTF(encrypt(line,"password"));
             }
             catch (IOException i) {
                 System.out.println(i);
