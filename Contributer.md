@@ -4,7 +4,7 @@ Thank you for considering contributing to Hacktoberfest! Please follow these ste
 
 1. **Fork and Clone:** Fork this repository and clone it to your local machine.
 
-2. **Choose an Issue:** Browse the [Issues]([https://github.com/roguezox/Server-Client/issues]) to find a task to work on, or create a new one.
+2. **Choose an Issue:** Browse the [Issues](https://github.com/roguezox/Server-Client/issues) to find a task to work on, or create a new one.
 
 3. **Make Changes:** Implement your contribution, write tests if needed, and commit your changes.
 
@@ -14,9 +14,9 @@ Thank you for considering contributing to Hacktoberfest! Please follow these ste
 
 6. **Code Style:** Follow the project's coding style and conventions.
 
-7. **Report Issues:** If you find bugs or have suggestions, open an issue on the [GitHub Issues](https://github.com/hacktoberfest/hacktoberfest/issues) page.
+7. **Report Issues:** If you find bugs or have suggestions, open an issue on the [GitHub Issues](https://github.com/roguezox/Server-Client/issues) page.
 
-8. **Code of Conduct:** Adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
+8. **Code of Conduct:** Adhere to our [Code of Conduct](https://docs.github.com/en/site-policy/github-terms/github-community-code-of-conduct).
 
 Thank you for helping make Hacktoberfest better!
 
