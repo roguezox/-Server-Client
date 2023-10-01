@@ -4,7 +4,7 @@ Thank you for considering contributing to Hacktoberfest! Please follow these ste
 
 1. **Fork and Clone:** Fork this repository and clone it to your local machine.
 
-2. **Choose an Issue:** Browse the [Issues](https://github.com/hacktoberfest/hacktoberfest/issues) to find a task to work on, or create a new one.
+2. **Choose an Issue:** Browse the [Issues]([https://github.com/roguezox/Server-Client/issues]) to find a task to work on, or create a new one.
 
 3. **Make Changes:** Implement your contribution, write tests if needed, and commit your changes.
 
